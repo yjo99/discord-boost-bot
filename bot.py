@@ -1,6 +1,7 @@
 from discord.ext import commands
 import discord, os, json, hashlib
 from boosting import *
+from pycuolor import color
 from auto import *
 if os.name == 'nt':
     import ctypes
