@@ -1,0 +1,15 @@
+{
+    "bot_token": "",
+    "bot_status": "waiting to boost",
+    "capmonster_key": "",
+    "proxyless": true,
+    "field_name_invite": "",
+    "change_server_nick": false,
+    "server_nick": "",
+    "guildID": ,
+    "ownerID": [],
+    "adminID": [],
+    "order_log_webhook": "",
+    "boost_log_webhook": "",
+    "boost_failed_log_webhook": ""
+}
