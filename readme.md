@@ -36,3 +36,4 @@ Sellpass:
 - Click on 'Content', select 'Dynamic Product' and 'Manual Service'. In the 'Dynamic Webhook URL' field input {ngrok webhook url}/sellpass and in 'Service Info' input the message you want your customer to get on their email.
 - Set the maximum quantity to 1.
 - Add a custom field and name it whatever you want (this field should be set for taking the server invite link as an input) Set 'type' to 'Text'. Copy and paste that name in config.json, 'field_name_invite' field.
+
