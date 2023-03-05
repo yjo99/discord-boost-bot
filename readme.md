@@ -37,3 +37,4 @@ Sellpass:
 - Set the maximum quantity to 1.
 - Add a custom field and name it whatever you want (this field should be set for taking the server invite link as an input) Set 'type' to 'Text'. Copy and paste that name in config.json, 'field_name_invite' field.
 
+
